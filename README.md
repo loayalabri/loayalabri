@@ -1,5 +1,5 @@
 - 👋 Hi, I’m loay alabri
-- 👀 I’m interested in everything related to computers
+- 👀 I’m interested in Game development and Data Science,
 - 🌱 I’m currently in my first year learning computer science at UBC
 - 💞️ I’m looking for experiences in programming
 - 📫 My email is loay1142003@gmail.com
